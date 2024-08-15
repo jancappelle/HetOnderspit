@@ -219,3 +219,8 @@ p.copyright {
 .asterix {
 	color: #ff0000;
 }
+
+.indicates-required,
+.mc-field-group {
+	margin-bottom: 12px;
+}
