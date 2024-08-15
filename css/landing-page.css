@@ -213,3 +213,9 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+/*-----------------mailchimp styles-----------------------*/
+
+.asterix {
+	color: #ff0000;
+}
